@@ -38,10 +38,10 @@ The project starts with an exploratory data analysis (EDA) to understand the dis
 - Creating a correlation heatmap to identify relationships between features.
 
 ### Distribution of Sensor Readings
-![Distribution](images/distribution.png)
+![Distribution](Images/distribution.png)
 
 ### Correlation Heatmap
-![Heatmap](images/heatmap.png)
+![Heatmap](Images/heatmap.png)
 
 ## Model Building
 The primary model used in this project is a neural network built using TensorFlow and Keras. The model architecture consists of:
@@ -56,10 +56,10 @@ The model is evaluated using the following metrics:
 - R-squared (R^2)
 
 ### Training History
-![Training History](images/training_history.png)
+![Training History](Images/training_history.png)
 
 ### Predictions vs Actual Values
-![Predictions vs Actual](images/predictions_vs_actual.png)
+![Predictions vs Actual](Images/predictions_vs_actual.png)
 
 ## Conclusion and Future Work
 ### Conclusion
