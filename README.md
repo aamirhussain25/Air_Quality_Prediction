@@ -59,7 +59,7 @@ The model is evaluated using the following metrics:
 ![Training History](Images/training_history.png)
 
 ### Predictions vs Actual Values
-![Predictions vs Actual](Images/predictions_vs_actual.png)
+![Predictions vs Actual](Images/prediction_vs_actual.png)
 
 ## Conclusion and Future Work
 ### Conclusion
