@@ -69,7 +69,7 @@ The model is evaluated using the following metrics:
 - The R^2 score indicates the proportion of variance in the dependent variable predictable from the independent variables.
 
 ### Future Work
-- Incorporate more advanced models such as XGBoost or LightGBM.
+- Incorporate more advanced models.
 - Collect more data to improve the robustness of the models.
 - Apply the model to real-time data for continuous air quality monitoring.
 - Explore feature engineering techniques to create new informative features.
